@@ -1,0 +1,38 @@
+{
+    "name": "smartytheme",
+    "displayName": "SmartyTheme",
+    "description": "Visual Studio Code dark theme for awesome programmers.",
+    "icon": "images/icon.png",
+    "version": "1.0.0",
+    "publisher": "SmartyStudio",
+    "author": {
+        "name": "Smarty Studio"
+    },
+    "engines": {
+        "vscode": "^1.33.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "SmartyTheme",
+                "uiTheme": "vs-dark",
+                "path": "themes/SmartyTheme-color-theme.json"
+            }
+        ],
+        "iconThemes": [
+            {
+				"label": "SmartyTheme Icons",
+				"id": "smartytheme-icons",
+                "path": "fileicons/SmartyTheme-icon-theme.json"
+            }
+        ]
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/smartystudio/vscode-smartytheme"
+    },
+    "homepage": "https://github.com/smartystudio/vscode-smartytheme/blob/master/README.md"
+}
