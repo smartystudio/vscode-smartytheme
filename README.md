@@ -12,6 +12,6 @@ Visual Studio Code dark theme with awesome icons for awesome programmers.
 6. From the menu bar click: File > Preferences > File Icon Theme > SmartyTheme Icons
 
 ### For more information
-* [Smarty Studio](https://smartystudio.net/vscode-extensions)
+* [Smarty Studio](https://smartystudio.net)
 
 **Enjoy!**

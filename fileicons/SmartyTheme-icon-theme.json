@@ -102,12 +102,12 @@
 			"fontColor":"#baa0f8"
 		},
 		"_folder":{
-			"fontCharacter":"\\F117",
-			"fontColor":"#8b9798"
+			"fontCharacter":"\\1F5BF",
+			"fontColor":"#ffb270"
 		},
 		"_folder-open":{
-			"fontCharacter":"\\F118",
-			"fontColor":"#8b9798"
+			"fontCharacter":"\\1F5C0",
+			"fontColor":"#ffb270"
 		},
 		"_folder-root":{
 			"fontCharacter":"\\F119",
