@@ -21,7 +21,7 @@
 		"scrollbarSlider.background": "#37414050",
 		"sideBar.background": "#191d1f",
 		"sideBar.border": "#111518",
-		"statusBar.background": "#40A9F3",
+		"statusBar.background": "#1C2022",
 		"tab.activeBackground": "#1C2022",
 		"tab.border": "#111518",
 		"tab.inactiveBackground": "#111518",
@@ -39,7 +39,9 @@
 		"menu.selectionForeground": "#ffffff",
 		"menubar.selectionBackground": "#ffffff10",
 		"menubar.selectionForeground": "#ffffff",
-		"editorGroup.dropBackground": "#ffd3991f"
+		"editorGroup.dropBackground": "#ffd3991f",
+		"terminal.background":"#1C2022",
+        	"terminal.ansiBlack":"#1C2022"
 	},
 	"tokenColors": [
 		{
